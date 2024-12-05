@@ -1,0 +1,302 @@
+{
+  "chairs": [
+    {
+      "id": "1",
+      "name": "Classic Oak Dining Chair",
+      "description": "A traditional oak chair with a smooth finish, ideal for dining.",
+      "price": 59.99,
+      "imgUrl": "https://example.com/images/wood_chair_1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Rustic Farmhouse Chair",
+      "description": "Rustic design with distressed wood, perfect for a cozy kitchen.",
+      "price": 74.99,
+      "imgUrl": "https://example.com/images/wood_chair_2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Contemporary Wooden Chair",
+      "description": "A sleek chair with clean lines for a modern touch.",
+      "price": 89.99,
+      "imgUrl": "https://example.com/images/wood_chair_3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Handcrafted Mahogany Chair",
+      "material": "wood",
+      "description": "Elegant mahogany chair, handcrafted for a luxurious feel.",
+      "price": 129.99,
+      "imgUrl": "https://example.com/images/wood_chair_4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Vintage Wooden Rocking Chair",
+      "description": "A charming rocking chair with a vintage finish.",
+      "price": 149.99,
+      "imgUrl": "https://example.com/images/wood_chair_5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Mid-Century Modern Chair",
+      "description": "Mid-century modern design with a walnut finish.",
+      "price": 109.99,
+      "imgUrl": "https://example.com/images/wood_chair_6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Traditional Wooden Bench Chair",
+      "description": "A bench-style chair perfect for communal dining tables.",
+      "price": 99.99,
+      "imgUrl": "https://example.com/images/wood_chair_7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Artisan Wooden Accent Chair",
+      "description": "Handcrafted accent chair with intricate carvings.",
+      "price": 139.99,
+      "imgUrl": "https://example.com/images/wood_chair_8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Minimalist Wooden Stool",
+      "description": "A minimalist wooden stool perfect for small spaces.",
+      "price": 39.99,
+      "imgUrl": "https://example.com/images/wood_chair_9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Reclaimed Wood Chair",
+      "description": "Eco-friendly chair made from reclaimed wood.",
+      "price": 84.99,
+      "imgUrl": "https://example.com/images/wood_chair_10.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Industrial Metal Chair",
+      "description": "A sturdy industrial-style metal chair for modern spaces.",
+      "price": 69.99,
+      "imgUrl": "https://example.com/images/metal_chair_1.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Stackable Steel Chair",
+      "description": "A lightweight, stackable steel chair for convenient storage.",
+      "price": 49.99,
+      "imgUrl": "https://example.com/images/metal_chair_2.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Vintage Metal Bistro Chair",
+      "description": "A classic metal bistro chair with a vintage finish.",
+      "price": 89.99,
+      "imgUrl": "https://example.com/images/metal_chair_3.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Minimalist Metal Chair",
+      "material": "metal",
+      "description": "A minimalist chair with a sleek metal frame.",
+      "price": 59.99,
+      "imgUrl": "https://example.com/images/metal_chair_4.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Outdoor Metal Patio Chair",
+      "description": "A durable metal chair designed for outdoor use.",
+      "price": 79.99,
+      "imgUrl": "https://example.com/images/metal_chair_5.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Contemporary Metal Dining Chair",
+      "description": "A modern dining chair with a brushed metal finish.",
+      "price": 99.99,
+      "imgUrl": "https://example.com/images/metal_chair_6.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Folding Metal Chair",
+      "description": "A foldable metal chair for versatile use and easy storage.",
+      "price": 39.99,
+      "imgUrl": "https://example.com/images/metal_chair_7.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Geometric Metal Frame Chair",
+      "description": "A modern metal chair with a geometric design.",
+      "price": 89.99,
+      "imgUrl": "https://example.com/images/metal_chair_8.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Retro Metal Bar Chair",
+      "description": "A retro-style metal chair ideal for bar settings.",
+      "price": 119.99,
+      "imgUrl": "https://example.com/images/metal_chair_9.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Industrial Metal Stool",
+      "description": "A robust metal stool with an industrial aesthetic.",
+      "price": 49.99,
+      "imgUrl": "https://example.com/images/metal_chair_10.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Modern Plastic Dining Chair",
+      "description": "A lightweight plastic chair with a sleek, modern design.",
+      "price": 39.99,
+      "imgUrl": "https://example.com/images/plastic_chair_1.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Colorful Plastic Chair",
+      "description": "A vibrant plastic chair suitable for indoor or outdoor use.",
+      "price": 29.99,
+      "imgUrl": "https://example.com/images/plastic_chair_2.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Stackable Plastic Chair",
+      "description": "Stackable and durable plastic chair for easy storage.",
+      "price": 34.99,
+      "imgUrl": "https://example.com/images/plastic_chair_3.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Contemporary Plastic Armchair",
+      "description": "A comfortable armchair made of sturdy plastic.",
+      "price": 49.99,
+      "imgUrl": "https://example.com/images/plastic_chair_4.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Ergonomic Plastic Chair",
+      "description": "An ergonomic plastic chair with excellent back support.",
+      "price": 59.99,
+      "imgUrl": "https://example.com/images/plastic_chair_5.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Minimalist Plastic Chair",
+      "description": "A minimalist chair with a durable plastic shell.",
+      "price": 44.99,
+      "imgUrl": "https://example.com/images/plastic_chair_6.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Outdoor Plastic Patio Chair",
+      "description": "A weather-resistant plastic chair for outdoor spaces.",
+      "price": 39.99,
+      "imgUrl": "https://example.com/images/plastic_chair_7.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Kids’ Plastic Chair",
+      "description": "A fun and colorful plastic chair designed for children.",
+      "price": 19.99,
+      "imgUrl": "https://example.com/images/plastic_chair_8.jpg"
+    },
+    {
+      "id": "29",
+      "name": "Transparent Plastic Chair",
+      "description": "A stylish, transparent plastic chair for modern interiors.",
+      "price": 69.99,
+      "imgUrl": "https://example.com/images/plastic_chair_9.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Designer Plastic Lounge Chair",
+      "description": "A high-end lounge chair made from durable plastic.",
+      "price": 89.99,
+      "imgUrl": "https://example.com/images/plastic_chair_10.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Industrial Wood-Metal Chair",
+      "description": "A stylish chair with a wooden seat and metal frame, perfect for industrial decor.",
+      "price": 89.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_1.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Vintage Wood-Metal Dining Chair",
+      "description": "A vintage-style chair featuring a natural wood seat and a sturdy metal base.",
+      "price": 99.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_2.jpg"
+    },
+    {
+      "id": "33",
+      "name": "Rustic Wood-Metal Chair",
+      "description": "Rustic design with a distressed wood seat and black metal frame.",
+      "price": 84.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_3.jpg"
+    },
+    {
+      "id": "34",
+      "name": "Contemporary Wood-Metal Chair",
+      "description": "A sleek and modern chair combining polished wood and brushed metal.",
+      "price": 109.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_4.jpg"
+    },
+    {
+      "id": "35",
+      "name": "Minimalist Wood-Metal Chair",
+      "description": "A minimalist chair with a light wood seat and slim metal legs.",
+      "price": 74.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_5.jpg"
+    },
+    {
+      "id": "36",
+      "name": "Handcrafted Wood-Metal Chair",
+      "description": "Handcrafted design with a unique blend of oak wood and iron.",
+      "price": 129.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_6.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Industrial Bar Stool",
+      "description": "A high stool with a wooden seat and metal legs, great for bars or counters.",
+      "price": 94.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_7.jpg"
+    },
+    {
+      "id": "38",
+      "name": "Modern Wood-Metal Lounge Chair",
+      "description": "Comfortable lounge chair with a wide wooden seat and metal frame.",
+      "price": 149.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_8.jpg"
+    },
+    {
+      "id": "39",
+      "name": "Eco-Friendly Wood-Metal Chair",
+      "description": "Sustainably sourced wood combined with recycled metal frame.",
+      "price": 104.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_9.jpg"
+    },
+    {
+      "id": "40",
+      "name": "Traditional Wood-Metal Chair",
+      "description": "A traditional design featuring a curved wooden backrest and metal supports.",
+      "price": 79.99,
+      "imgUrl": "https://example.com/images/wood_metal_chair_10.jpg"
+    },
+    {
+      "id": "4b49",
+      "imgUrl": "https://wakefitdev.gumlet.io/img/npl_modified_images/atticus/sofa_WLCHRATCFVBL/sofa_WLCHRATCFVBL_1.jpg?w=3840",
+      "text": "chairs",
+      "description": "afieoinfe",
+      "cost": 12,
+      "category": "Coffees"
+    },
+    {
+      "id": "5e88",
+      "imgUrl": "https://wakefitdev.gumlet.io/img/npl_modified_images/atticus/sofa_WLCHRATCFVBL/sofa_WLCHRATCFVBL_1.jpg?w=3840",
+      "text": "adsasd",
+      "description": "asdasd",
+      "cost": 122,
+      "category": "Tables"
+    }
+  ]
+}
